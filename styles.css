@@ -1,0 +1,34 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f3f4f6;
+  }
+  
+  .header {
+    background-color: #0275d8;
+    padding: 20px 15px;
+    border-radius: 0 0 20px 20px;
+  }
+  
+  .card {
+    border: none;
+  }
+  
+  .rounded-custom {
+    border-radius: 20px;
+  }
+  
+  .text-green {
+    color: #28a745;
+  }
+  
+  .text-red {
+    color: #dc3545;
+  }
+  
+  .nav-bottom {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+  }
+  
