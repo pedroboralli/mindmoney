@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="atv cap7" id="6F8E452A-A404-AF73-03F3-70BD805BDF89" version="3.5">
+<createdBy>PEDRO CASA</createdBy>
+<createdTime>2024-11-06 21:26:51 UTC</createdTime>
+<ownerDesignName>cap7</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6F8E452A-A404-AF73-03F3-70BD805BDF89</designId>
+</OSDM_Design>
